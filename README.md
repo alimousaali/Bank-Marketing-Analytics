@@ -22,7 +22,7 @@ This results in high cost and low efficiency in customer targeting.
 ---
 
 ## 🛠️ Tools & Technologies
-- Python (Pandas, NumPy, Scikit-learn)
+- Python (Pandas, NumPy, matplotlib, Scikit-learn)
 - Machine Learning
 - Power BI
 - Excel
